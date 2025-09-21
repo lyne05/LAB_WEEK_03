@@ -12,5 +12,13 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">A classic Italian coffee drink prepared with equal
+parts espresso, steamed milk, and milk foam. Typically served in a cappuccino cup.
+    </string>
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc"> A concentrated coffee beverage brewed by forcing
+hot water under pressure through finely-ground coffee. Served in a small demitasse cup.
+    </string>
     <string name="coffee_list">Coffee List</string>
 </resources>
